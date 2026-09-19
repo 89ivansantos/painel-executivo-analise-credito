@@ -91,6 +91,12 @@ Os dados apresentados neste projeto são utilizados exclusivamente para fins de 
 
 ---
 
+## 📁 Arquivo do projeto
+O arquivo .pbix está disponível neste repositório para consulta e exploração do modelo desenvolvido no Power BI Desktop.
+Dados: fictícios e utilizados exclusivamente para fins demonstrativos.
+
+---
+
 ## 👤 Autor
 
 **Ivan Santos**
